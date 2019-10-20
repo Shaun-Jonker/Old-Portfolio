@@ -254,10 +254,13 @@ li{
 .about-heading h6{
   font-size: 2rem;
   font-weight: 300;
+  margin-top: -3.1rem;
 }
 
 .profile-image{
   flex: 1;
+  min-width: 30%;
+  margin-left: 15rem;
 
 }
 
