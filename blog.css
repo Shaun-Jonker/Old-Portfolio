@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'latinaregular';
+    src: url('latina-regular-webfont.woff2') format('woff2'),
+         url('latina-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .landing-text h1{
 	font-size: 40px;
 	text-align: center;
@@ -13,15 +21,18 @@
 	margin-top: -3rem;
 }
 
-{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+.about p{
+  font-size: 2rem;
+  color: black;
+  text-align: center;
+  text-orientation: 45deg;
+  margin-top: -8rem;
 }
+
 
 html{
   font-size: 10px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'latinaregular', sans-serif;
   color: #eee;
 }
 
@@ -45,6 +56,7 @@ a{
 p{
   font-size: 1.8rem;
   font-weight: 300;
+  font-family: sans-serif;
 }
 
 img{
