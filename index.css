@@ -415,7 +415,7 @@ li{
   text-transform: uppercase;
   font-weight: 300;
   margin-bottom: 1rem;
-  opacity: .3;
+  opacity: none;
 }
 
 .timeline .date{
