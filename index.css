@@ -274,11 +274,13 @@ li{
 .key-skills{
   font-size: 3rem;
   margin-top: -3rem;
+  flex: 1;
 }
 
 .skill-list{
   margin-top: -4rem;
   font-size: 1.5rem;
+  flex: 1;
 }
 
 .social-media{
