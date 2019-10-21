@@ -271,6 +271,16 @@ li{
 
 }
 
+.key-skills{
+  font-size: 3rem;
+  margin-top: -3rem;
+}
+
+.skill-list{
+  margin-top: -4rem;
+  font-size: 1.5rem;
+}
+
 .social-media{
   margin-top: 2rem;
   margin-right: 7rem;
